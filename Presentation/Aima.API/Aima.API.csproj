@@ -14,7 +14,7 @@
 
   <ItemGroup>
     <Folder Include="FormatFiles\" />
-    <Folder Include="Uploads\Employee\" />
+    <Folder Include="Uploads\" />
   </ItemGroup>
 
   <ItemGroup>
